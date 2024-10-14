@@ -1,7 +1,4 @@
-module github.com/alphacep/vosk-api/go
+module github.com/hekt/vosk-api/go
 
 go 1.16
 
-replace (
-    github.com/alphacep/vosk-api/go => ./
-)
